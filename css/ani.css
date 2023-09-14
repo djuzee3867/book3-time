@@ -1,0 +1,41 @@
+@keyframes fadeup {
+    0%{
+        opacity: 0;
+        transform: translateX(-20px) scale(0);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px) scale(1);
+    }
+}
+.container{
+        animation: fadeup 0.5s;
+    }
+.text-center{
+    animation: fadeup 1s;
+}
+.container11{
+    animation: fadeup 1s;
+}
+.container1{
+    animation: fadeup 1s;
+}
+.small-container99{
+    animation: fadeup 1s;
+}
+.container111{
+    padding-left: 750px;
+    width: 100%;
+}
+
+.p11{
+    padding-right: 130px;
+}
+
+.p22{
+    padding-right: 150px;
+}
+
+.p33{
+    padding-right: 150px;
+}

@@ -1,0 +1,49 @@
+.container1{
+    width: 50%;
+    margin: auto;
+    padding: auto;
+}
+.container11{
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    margin-top: 300px;
+}
+.login1{
+    margin: 60px;
+    margin-left: 300px;
+}
+.button1{
+    width: 30%;
+    border: none;
+    font-size: 20px;
+}
+
+.button1:hover{
+    width: 30%;
+    border: 1px solid #000;
+    font-size: 21px;
+}
+input{
+    width: 60%;
+    border-radius: 5px;
+}
+.p1{
+    margin-left: 150px;
+    font-size: 30px;
+}
+.p11{
+    margin-left: 115px;
+    font-size: 30px;
+}
+.p2{
+    font-size: 20px;
+}
+table{
+    border-top: 2px solid#000000;
+}
+.button11{
+    width: 20%;
+    border: none;
+    font-size: 20px;
+}

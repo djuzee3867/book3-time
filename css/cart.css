@@ -1,0 +1,47 @@
+.small-container99{
+    margin: 80px auto;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.total-p{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.total-p table{
+    border-top: 3px solid #000;
+    max-width: 350px;
+    width: 100%;
+}
+.button99{
+    width: 50%;
+    border: none;
+    margin-left: 100px;
+}
+.button99:hover{
+    width: 50%;
+    border: none ;
+    font-size: 18px;
+    background-color: #000;
+    color: #fff;
+    
+    
+}
+
+.small-container999{
+display: flex;
+width: 100%;
+}
+
+
+.cart-111{
+   padding-left:100px;
+}
+.input1{
+    width: 40%;
+}
+.butt11{
+    padding-left:100px;
+}
